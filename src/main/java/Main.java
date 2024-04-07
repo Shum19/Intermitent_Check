@@ -5,7 +5,5 @@ public class Main {
         ArrayUtil.printStringArray(initArray);
         System.out.println("\n" + "-".repeat(100));
         ArrayUtil.printStringArray(ArrayUtil.ThreeOrLessArray(initArray));
-
-
     }
 }
